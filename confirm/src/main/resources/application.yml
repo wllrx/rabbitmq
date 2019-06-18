@@ -21,6 +21,6 @@ spring:
         prefetch: 20
         # 确认模式设置为手动签收
         acknowledge-mode: manual
-    host: 101.132.110.63
+    host: 127.0.0.1
     username: guest
     password: guest
